@@ -1,3 +1,7 @@
 .body {
     align-items: center;
 }
+iframe {
+    border: none;
+    align-items: center;
+}
